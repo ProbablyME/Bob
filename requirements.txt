@@ -1,0 +1,12 @@
+asyncio
+functools
+itertools
+math
+random
+discord
+discord.py
+youtube_dl
+async_timeout
+timeout
+discord.ext
+os
