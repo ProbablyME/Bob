@@ -1,10 +1,12 @@
 # BOB the Bot is your friend ! 
 
 Bob is just a bot.
+<br>
 Bob can sing 
+<br>
 Bob can't sing playlists though (to do list)
 
-
+<br><br><br>
 
 
 disclaimer :
